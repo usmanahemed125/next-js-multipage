@@ -97,6 +97,7 @@ footer p{
 }
 /*ABOUT PAGE STYLE*/
 .about{
+  background-image:url(./../../public/back-web.webp);
   background-size:cover ;
   background-position:calc();
   color: white;
